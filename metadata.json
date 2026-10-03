@@ -1,0 +1,7 @@
+{
+  "name": "MarkaStudio - White-Label Web Sitesi Oluşturucu ve Satış Paneli",
+  "description": "Kendi markanızla Wix ve Tilda benzeri web siteleri tasarlayın, müşterilerinize satın ve müşteri üyelik panelinden yönetin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
